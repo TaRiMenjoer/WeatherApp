@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="show_weather">Показать погоду, boy!</string>
+    <string name="input_city">Введите название своего Dangeon</string>
+</resources>
